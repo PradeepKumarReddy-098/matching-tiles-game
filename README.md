@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Game: (https://new-assets.ccbp.in/frontend/content/react-js/bord-game.png)
 - Success: (https://new-assets.ccbp.in/frontend/content/react-js/success.png)
 
-#### Implementation Files
+### Implementation Files
 
 - src/components/Login/index.js
 - src/components/Login/index.css

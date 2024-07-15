@@ -1,0 +1,15 @@
+.success-view{
+    width:100%;
+    text-align: center;
+}
+
+.success-view h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.success-view section{
+    text-align: center;
+    color:brown;
+    text-decoration:underline;
+}

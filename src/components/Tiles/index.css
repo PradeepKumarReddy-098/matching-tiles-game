@@ -1,0 +1,18 @@
+.tile{
+    border:2px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height:120px;
+    width:150px;
+    margin:10px;
+}
+
+.tile button{
+    font-size: 30px;
+    height:100%;
+    width:100%;
+    background-color: transparent;
+    border:none;
+}

@@ -32,6 +32,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Implementation Files
 
+<details>
+<summary>Files</summary>
+
 - src/components/Login/index.js
 - src/components/Login/index.css
 - src/components/Game/index.js
@@ -41,6 +44,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - src/components/GameSuccess/index.js
 - src/components/GameSuccess/index.css
 
+</details>
+
+
+### Resources
 
 <details>
 <summary>Tiles Array</summary>

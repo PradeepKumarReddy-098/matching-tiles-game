@@ -41,3 +41,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - src/components/GameSuccess/index.js
 - src/components/GameSuccess/index.css
 
+
+<details>
+<summary>Tiles Array</summary>
+
+- ["🐶","🚵‍♀️","🎳","🛝","🍀", "🌈", "💎","🏴","❤️","⏳","📡","🔋","🚀","🛸","🚁","🛶","🐶","🚵‍♀️","🎳","🛝","🍀", "🌈", "💎","🏴","❤️","⏳","📡","🔋","🚀","🛸","🚁","🛶"]
+
+
+</details>
